@@ -4,7 +4,7 @@ import 'package:flutter_html/src/style.dart';
 import 'package:html/dom.dart' as dom;
 //TODO(Sub6Resources): don't use the internal code of the html package as it may change unexpectedly.
 //ignore: implementation_imports
-import 'package:csslib/parser.dart'
+import 'package:csslib/parser.dart';
 import 'package:html/src/query_selector.dart';
 import 'package:list_counter/list_counter.dart';
 
